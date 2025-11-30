@@ -1,4 +1,4 @@
-# Peto-s-Paradox-Research-Idea
+# Peto's-Paradox-Research-Idea
 Computational Design and Stability Analysis of Putative MDM2 Inhibitors Inspired by Loxodonta africana TP53 Isoforms
 
 
