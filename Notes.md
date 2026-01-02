@@ -1,4 +1,5 @@
-# 1. The human p53 N-terminal peptide (residues 17–29, sequence ETFSDLWKLLPE) was selected because this region contains the core MDM2-binding motif. Residue numbers are critical: although full-length p53 is 393 amino acids, only residues 17–29 make direct contact with MDM2, as confirmed in the crystal structure PDB 1YCR. This ensures that any designed peptide or binder targets the biologically relevant interface for stabilizing p53.
+# 1. The human p53 N-terminal peptide 
+(residues 17–29, sequence ETFSDLWKLLPE) was selected because this region contains the core MDM2-binding motif. Residue numbers are critical: although full-length p53 is 393 amino acids, only residues 17–29 make direct contact with MDM2, as confirmed in the crystal structure PDB 1YCR. This ensures that any designed peptide or binder targets the biologically relevant interface for stabilizing p53.
 
 
 # 2. Elephant residue: ETFSYLWELLP
